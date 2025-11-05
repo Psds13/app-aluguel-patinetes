@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "app-aluguel-patinetes",
-    "slug": "app-aluguel-patinetes",
+    "name": "app-react-native-sqlite",
+    "slug": "app-react-native-sqlite",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "appaluguelpatinetes",
+    "scheme": "appreactnativesqlite",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -38,8 +38,7 @@
             "backgroundColor": "#000000"
           }
         }
-      ],
-      "expo-sqlite"
+      ]
     ],
     "experiments": {
       "typedRoutes": true,
